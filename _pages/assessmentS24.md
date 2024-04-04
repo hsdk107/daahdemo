@@ -12,7 +12,7 @@ toc_icon: "star"
 
 # ASSESSMENT
 
-| Component | Percentage | Mapping to CLOs | Description  |
+| Component | Percentage | Mapping to CLOs | Description <!-- $style="width:50%" --> |
 | :---: | :---: | :---: | :------------------------------------------------------------------------------- |
 | Digital narrative | 10% | (CLO 2, 4, 6) |  Students will write a digital literacy narrative at the beginning of term. It should include the strategies they currently employ in their daily and academic lives for content creation, social interaction, data manipulation and analysis. This will make up a page on the student’s own course site. It will be revised both at midterm and at the end of the term and assessed for growth and reflection. No credit is given for the first version, 5% is allotted for the second version, and 5% for the final. | 
 | Participation | 10% | (CLO 1) | Active participation and regular attendance are expected of all students. Between the course meetings, students may have to investigate a problem to learn how to do it themselves— taking initiative will be rewarded. In addition, we come to the course with different skills and helping out fellow students and fostering a collaborative spirit in the classroom will be rewarded. Participation will be assessed by the extent to which the students have prepared for in-class discussion. | 

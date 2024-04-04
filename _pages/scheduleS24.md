@@ -38,6 +38,7 @@ Making and Project-Based Thinking
 Data and Metadata in the Arts and Humanities 1 
 
 | Time/Date | Reading | Activity |
+| :--- | :--- | :--- |
 | Tues, 6 February  3:35PM-6:15PM | <br> -Broman/Woo ["Data Organization in Spreadsheets"](https://www.tandfonline.com/doi/pdf/10.1080/00031305.2017.1375989?needAccess=true), The American Statistician, 24 April 2018. <br> -Drucker, [ch 2](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (19-33) & [ch 4](https://www.taylorfrancis.com/books/mono/10.4324/9781003106531/digital-humanities-coursebook-johanna-drucker) (52-69) <br> -[Local Origins](https://doi.org/10.7551/mitpress/11543.003.0005) (Loukissas) | -Lab slides in drive <br> -Notebook: Cultural Heritage By the Numbers (posit.cloud) |
 | Thurs, 8 February 3:35PM-4:50PM | Continuation of the Notebooks <br> -De Bastion/Mukku, [Data and the Global South](https://us.boell.org/en/2020/10/20/data-and-global-south-key-issues-inclusive-digital-development), 2020. <br> -[Singapore Memories Project](https://www.singaporememories.gov.sg/) / [Trove](https://trove.nla.gov.au/) / [Europeana](https://www.europeana.eu/en) / [Google Arts & Culture](https://artsandculture.google.com/) | discussion of Geopolitics of Cultural Heritage (Grincheva/Stainforth, in drive) |
 
@@ -45,10 +46,10 @@ Data and Metadata in the Arts and Humanities 1
 [Top](https://daahnyuad.github.io/schedule/#unit-1) 
 
 **ASSIGNMENT 1 [here](https://daahnyuad.github.io/blog/cultural-heritage-numbers-S24/)** Due Date 22 Feb, 20% final grade.
-{: .notice}
+{: .notice--info}
 
 **EXTRA CREDIT OPPORTUNITY: It's [Love Data week!](https://nyu.libcal.com/calendar/classes?cid=1564&t=d&d=0000-00-00&cal=1564&ct=4295,47942&inc=0)** Due Date 19 Feb, 1-2 points on Assignment 1, to be written as a post. Guidelines on writing extra credit posts can be found [here]().
-{: .notice}
+{: .notice--warning}
 
 ## UNIT 2: TEXTUAL
 

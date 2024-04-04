@@ -10,7 +10,7 @@ toc_icon: "star"
 
 > There is no final paper in this course, nor is there an exam.  Instead, students build a digital course portfolio along the way, consisting of a research website, a final plan for a research project relevant to their own intellectual interests. 
 
-**ASSESSMENT:**
+# ASSESSMENT
 
 | Component | Percentage | Mapping to CLOs | Description  |
 | :---: | :---: | :---: | :------------------------------------------------------------------------------- |
@@ -20,7 +20,7 @@ toc_icon: "star"
 | Final portfolio | 20% | (CLO 1, 3, 6, 7, 8) | Over the course of the term, students will be exposed to project-based learning. Students will carry out one small group un-project at the end of term using the ideas and methods we have covered in class. By un-project we mean that students will also conceptualize and describe a project building in values from the course, but they will not actually carry it out. This exercise draws on "big picture" thinking and will require reflective analysis and contextualization. Since student interest will be incorporated into the scoping and planning of final un-projects, a full range of historical & analytical humanities production to generative & theoretical arts production will be possible as student output. We will begin to work on these around the midterm and continue through the semester. One such model for these un-projects can be found in the case studies of Digital_Humanities.  One of the parts of the final portfolio will be to take the assignment the student likes the best and would like to disseminate in the world, and it should be presented (with a minimum of text and clear headlining) on a single slide. Full instructions for this assignment will be provided | 
 
 
-**GRADE CUTOFFS:** 
+# GRADE CUTOFFS
 
 In the S24 semester, I will be using the following cutoffs. It may be necessary to lower them slightly in the final stages of grading for holistic evaluation. 
 
@@ -30,12 +30,11 @@ In the S24 semester, I will be using the following cutoffs. It may be necessary 
 
 _Alternate table format_
 
-|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Grade | A | A- | B+ | B | B- | C+ | C | C- | D | F |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Range | 100-93 | 92-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 70-60 | 60 or below
 
-**MIDTERM PROGRESS REPORT**
+# MIDTERM PROGRESS REPORT
 
 There are three kinds of Midterm Progress reports you may receive in this course: "strong", "satisfactory" and "concerns about progress". Absences are counted after the drop/add deadline.
 
@@ -47,6 +46,8 @@ There are three kinds of Midterm Progress reports you may receive in this course
 
 **_Concerns about progress_** means that you have unevenly participated in classroom discussions and activities; you have not kept up in submitting assignments or have been late in doing so. You have missed more than 4 classes, even if these have excuses. Your submitted work has been evaluated as less than satisfactory. 
 {: .notice--danger}
+
+# FYIs
 
 **Note on coursework submission**: Final portfolios are individual even though final projects may be group-based. As with all course material submission, the student will use the web-publishing platform of their choice, most likely Github Pages. A selection of these will be introduced in Lab 1 and skills in web publishing will be introduced in the lab sessions over the course of the semester). Examples of such sites will be provided to guide students. When group-based, it can be hosted in a single location and linked to, but each individual student must make a short write up about their own contribution. 
 

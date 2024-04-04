@@ -4,8 +4,7 @@ permalink: /assessment/
 author_profile: false
 ---
 
-
-
+> There is no final paper in this course, nor is there an exam.  Instead, students build a digital course portfolio along the way, consisting of a research website, a final plan for a research project relevant to their own intellectual interests. 
 
 **ASSESSMENT:**
 
@@ -39,6 +38,4 @@ _Concerns about progress_ means that you have unevenly participated in classroom
 Note on coursework submission: Final portfolios are individual even though final projects may be group-based. As with all course material submission, the student will use the web-publishing platform of their choice, most likely Github Pages. A selection of these will be introduced in Lab 1 and skills in web publishing will be introduced in the lab sessions over the course of the semester). Examples of such sites will be provided to guide students. When group-based, it can be hosted in a single location and linked to, but each individual student must make a short write up about their own contribution. 
 
 Note on Group work: any group work should be described according to the various contributions. Students can refer to a breakdown of contributions such as in the principles of the [Contributor Roles Typology](https://people.uleth.ca/~daniel.odonnell/blog/the-casrai-credit-typology) 
-
-> There is no final paper in this course, nor is there an exam.  Instead, students build a digital course portfolio along the way, consisting of a research website, a final plan for a research project relevant to their own intellectual interests. 
 

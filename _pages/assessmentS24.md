@@ -23,6 +23,9 @@ In the S24 semester, I will be using the following cutoffs. It may be necessary 
 | A | 100-93 | A- | 92-90 | B+ | 89-87 | B | 86-83 | B- | 82-80 |
 | C+ | 79-77 | C | 76-73 | C- | 72-70 | D | 70-60 | F | 60 or below |
 
+_Alternate table format_
+Grade | A | A- | B+ | B | B- | C+ | C | C- | D | F |
+Range | 100-93 | 92-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 70-60 | 60 pr below
 
 **MIDTERM PROGRESS REPORT**
 

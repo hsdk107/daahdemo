@@ -24,18 +24,23 @@ In the S24 semester, I will be using the following cutoffs. It may be necessary 
 | C+ | 79-77 | C | 76-73 | C- | 72-70 | D | 70-60 | F | 60 or below |
 
 _Alternate table format_
+
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Grade | A | A- | B+ | B | B- | C+ | C | C- | D | F |
-Range | 100-93 | 92-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 70-60 | 60 pr below
+Range | 100-93 | 92-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 70-60 | 60 or below
 
 **MIDTERM PROGRESS REPORT**
 
 There are three kinds of Midterm Progress reports you may receive in this course: "strong", "satisfactory" and "concerns about progress". Absences are counted after the drop/add deadline.
 
-**_Strong progress_** means that you have consistently participated in classroom discussions and activities; you have completed the preparation for the class; you have submitted all assignments on time; and you have not missed more than 2 classes. To receive a strong progress, you should have submitted work that meets the highest standards in the rubric. {: .notice--success}
+**_Strong progress_** means that you have consistently participated in classroom discussions and activities; you have completed the preparation for the class; you have submitted all assignments on time; and you have not missed more than 2 classes. To receive a strong progress, you should have submitted work that meets the highest standards in the rubric. 
+{: .notice--success}
 
-**_Satisfactory progress_** means that you participated in classroom discussions and activities; you have submitted all assignments, but perhaps were late; and you have missed up 3-4 classes. Your submitted work has not been in the highest standards. {: .notice--warning} 
+**_Satisfactory progress_** means that you participated in classroom discussions and activities; you have submitted all assignments, but perhaps were late; and you have missed up 3-4 classes. Your submitted work has not been in the highest standards. 
+{: .notice--warning} 
 
-_Concerns about progress_ means that you have unevenly participated in classroom discussions and activities; you have not kept up in submitting assignments or have been late in doing so. You have missed more than 4 classes, even if these have excuses. Your submitted work has been evaluated as less than satisfactory. {: .notice--danger}
+**_Concerns about progress_** means that you have unevenly participated in classroom discussions and activities; you have not kept up in submitting assignments or have been late in doing so. You have missed more than 4 classes, even if these have excuses. Your submitted work has been evaluated as less than satisfactory. 
+{: .notice--danger}
 
 
 Note on coursework submission: Final portfolios are individual even though final projects may be group-based. As with all course material submission, the student will use the web-publishing platform of their choice, most likely Github Pages. A selection of these will be introduced in Lab 1 and skills in web publishing will be introduced in the lab sessions over the course of the semester). Examples of such sites will be provided to guide students. When group-based, it can be hosted in a single location and linked to, but each individual student must make a short write up about their own contribution. 

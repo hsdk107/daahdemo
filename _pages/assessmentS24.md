@@ -2,6 +2,10 @@
 title: "Assessment S24"
 permalink: /assessment/
 author_profile: false
+toc: true
+toc_sticky: true
+toc_label: "Assessment Info"
+toc_icon: "star"
 ---
 
 > There is no final paper in this course, nor is there an exam.  Instead, students build a digital course portfolio along the way, consisting of a research website, a final plan for a research project relevant to their own intellectual interests. 

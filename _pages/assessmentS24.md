@@ -9,7 +9,7 @@ author_profile: false
 **ASSESSMENT:**
 
 | Component | Percentage | Mapping to CLOs | Description  |
-| :---: | :---: | :---: | :------------------------------: |
+| :---: | :---: | :---: | :------------------------------------------------------------------------------- |
 | Digital narrative | 10% | (CLO 2, 4, 6) |  Students will write a digital literacy narrative at the beginning of term. It should include the strategies they currently employ in their daily and academic lives for content creation, social interaction, data manipulation and analysis. This will make up a page on the student’s own course site. It will be revised both at midterm and at the end of the term and assessed for growth and reflection. No credit is given for the first version, 5% is allotted for the second version, and 5% for the final. | 
 | Participation | 10% | (CLO 1) | Active participation and regular attendance are expected of all students. Between the course meetings, students may have to investigate a problem to learn how to do it themselves— taking initiative will be rewarded. In addition, we come to the course with different skills and helping out fellow students and fostering a collaborative spirit in the classroom will be rewarded. Participation will be assessed by the extent to which the students have prepared for in-class discussion. | 
 | Assignments/Responses | 60% | (CLO 1, 4, 5, 6, 7) | There will be four assignments in this course which grow out of hands-on work. They will be either reflective pieces on a conceptual issue that has arisen in class or a report or review about a project or experiment carried out; these assignments should incorporate lessons learned from the lab courses. These assignments can be done individually or in pairs, according to the directions. Students will learn how to create their own web presence through setting up a site of their own to host these assignments. The best three assignments will be counted (20% each). | 
@@ -26,9 +26,9 @@ In the S24 semester, I will be using the following cutoffs. It may be necessary 
 
 _Alternate table format_
 
-| &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 |---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Grade | A | A- | B+ | B | B- | C+ | C | C- | D | F |
+|---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 Range | 100-93 | 92-90 | 89-87 | 86-83 | 82-80 | 79-77 | 76-73 | 72-70 | 70-60 | 60 or below
 
 **MIDTERM PROGRESS REPORT**
